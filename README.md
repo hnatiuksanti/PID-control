@@ -7,6 +7,11 @@ Un capitán de barco, para corregir la dirección, debe tener en cuenta el error
 ![Esquema de control PID](https://github.com/hnatiuksanti/PID-control/blob/main/Diagramas/PID_diagrama%20de%20bloques.jpg)
 
 
+
+## Montaje experimental y la conexiones de la placa. 
+![Esquema experimental PID](https://github.com/hnatiuksanti/PID-control/blob/main/Diagramas/montaje_exp.png)
+![Conexiones placa NUCLEO F334R8](https://github.com/hnatiuksanti/PID-control/blob/main/Diagramas/nucleo.png)
+
 # Performance del controlador PID. 
 ### Resultados luego de una calibración manual de los parámetros P,I,D. Las unidades de tiempo se muestran en milisengundo, la velocidad es caulitativa. 
 ![Vel vs Tiempo PID](https://github.com/hnatiuksanti/PID-control/blob/main/Diagramas/Vel_Tiempo_PID.png)
@@ -19,8 +24,3 @@ Un capitán de barco, para corregir la dirección, debe tener en cuenta el error
 ### Control PID frente a un freno externo. 
 ![Fuerza PID](https://github.com/hnatiuksanti/PID-control/blob/main/Diagramas/Vel_Tiempo_Confuerza_externa.png)
 
-
-
-## Montaje experimental y la conexiones de la placa. 
-![Esquema experimental PID](https://github.com/hnatiuksanti/PID-control/blob/main/Diagramas/montaje_exp.png)
-![Conexiones placa NUCLEO F334R8](https://github.com/hnatiuksanti/PID-control/blob/main/Diagramas/nucleo.png)
